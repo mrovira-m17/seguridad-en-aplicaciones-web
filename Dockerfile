@@ -1,6 +1,5 @@
 FROM ubuntu:20.04
-MAINTAINER Yavuzlar Web Security Team <iletisim@siberyavuzlar.com>
-LABEL Description="Web Vulnerability Lab by Yavuzlar." \
+LABEL Description="Preuba de subida en el github." \
 	License="Mozilla Public License Version 2.0" \
 	Usage="docker run -d -p [HOST PORT NUMBER]:80 yavuzlar/vulnlab" \
 	Version="1.0"
